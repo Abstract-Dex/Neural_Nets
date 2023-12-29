@@ -8,8 +8,6 @@ Projects based on Artificial Neural Networks
 
 UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-Attribute Information:
-
 <table border="1" class="dataframe">
 
 <thead>
@@ -161,8 +159,6 @@ Class distribution: 357 benign, 212 malignant
 Data from Kaggle:
 
 https://www.kaggle.com/harlfoxem/housesalesprediction
-
-#### Feature Columns
 
 <table border="1" class="dataframe">
 
@@ -403,8 +399,6 @@ https://www.kaggle.com/harlfoxem/housesalesprediction
 Data from Kaggle:
 
 https://www.kaggle.com/datasets/wordsforthewise/lending-club
-
-#### Feature Columns
 
 <table border="1" class="dataframe">
 
